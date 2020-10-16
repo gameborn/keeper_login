@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/layout_logged_in_fragment.xml.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/layout/logged_in_fragment.xml"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/navigation_login_nav.xml.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/navigation/login_nav.xml"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/drawable_login_button_states.xml.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/drawable/login_button_states.xml"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/font_keeper_font.xml.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/font/keeper_font.xml"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/drawable_login_button_background.png.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/drawable/login_button_background.png"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/drawable_login_button_pressed_background.png.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/drawable/login_button_pressed_background.png"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/drawable_login_button_border.png.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/drawable/login_button_border.png"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/font_overpass_black.ttf.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/font/overpass_black.ttf"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/font_reponse_bold_rounded.otf.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/font/reponse_bold_rounded.otf"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/layout_login_fragment.xml.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/layout/login_fragment.xml"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/res/merged/debug/drawable_login_black_no_padding.png.flat",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/drawable/login_black_no_padding.png"
+    }
+]

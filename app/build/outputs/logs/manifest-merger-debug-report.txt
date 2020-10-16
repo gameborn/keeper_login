@@ -1,0 +1,291 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.databinding:viewbinding:4.0.2] /Users/ratface/.gradle/caches/transforms-2/files-2.1/ed27d062b86e8e3fa1c233bacb9e4212/jetified-viewbinding-4.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/8ad5c406f6c57ea9be26dc299e1d8018/navigation-fragment-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /Users/ratface/.gradle/caches/transforms-2/files-2.1/2d0798fab1576f95f5c6fbd4f2229278/jetified-fragment-ktx-1.2.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/58aa645a03c38372d3e778f66f1e0b97/navigation-ui-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/7cedaf1db3ab97bd7f15c72bb416b112/navigation-runtime-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/8a9c47758f61f47aef4e8d839de619c7/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/3e9b323b88e1a5b4fa1dd9d0d6792f8e/navigation-common-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/ratface/.gradle/caches/transforms-2/files-2.1/0beffe0d30ade6ee69b015645c6a6afd/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/218bc1b1f51c4a631a8789bce8903f8e/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/04769ba0258c98b76a309cc7076b5dad/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/3f58ac22f092b020fb15c9132df4c9c8/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/ratface/.gradle/caches/transforms-2/files-2.1/583aca2d308683ad708806eff3140c53/constraintlayout-2.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-ui:2.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/3e9148bf64478e24c376a890878806c9/navigation-ui-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/9cc7cb2f97f1705dd07ec3706c6a27c3/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/c7cd071fe9575da37643011df15daf26/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/fb1a2e8258309ad04395d828d65a6357/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/a89bef81c65def4cfa70e234027fda36/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha02] /Users/ratface/.gradle/caches/transforms-2/files-2.1/9a456879aa141de8f970bab9d90b2a3f/jetified-hilt-lifecycle-viewmodel-1.0.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-common:1.0.0-alpha02] /Users/ratface/.gradle/caches/transforms-2/files-2.1/bf207ef97d895ce8f12d9ec8055372d6/jetified-hilt-common-1.0.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.28-alpha] /Users/ratface/.gradle/caches/transforms-2/files-2.1/c22fa83854cd83edc69b9da02854112c/jetified-hilt-android-2.28-alpha/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/ratface/.gradle/caches/transforms-2/files-2.1/2f64ec15e0a532f643d058dc9b2f6c24/room-runtime-2.2.5/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/57fdcb84de038ef25bb7412a667b3885/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/ead2fbb7a74a37a78f497f4e8f0c2e4b/navigation-fragment-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.5] /Users/ratface/.gradle/caches/transforms-2/files-2.1/86c96f9b42533278e4f9b14c82584f4f/fragment-1.2.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/b59e7f25701bf99741f59edd524b58a3/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/7b764c1440b8689dc39bf072fb24ded7/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/797130885ef6cbb410eda87a2b3b7047/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/cdd8264b419ca912391a0032615759a0/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/0027e910cfa6047353fe642d5a3a2057/navigation-runtime-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/0b07b2c11ff73f1ca46e66ebf05774d0/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/3053c65649ed16dcc1801ad81e6bedfd/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/da5da4455f7723820d7137ee0cca0810/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/7e8f3be1da714a2fc3dac0867c9a6b20/drawerlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/f2e24f72107c8998e5c369b6a4987454/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/dd11533340a5da8f4e72622d8000189e/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/448860136ffe8ebc99884ef1fc1d6616/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/8204b38f17119f31511d54bbdd19ad5d/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/4473c473711626dbc64ca37200aa45a2/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/8e3a366481b0420829943701de6451b0/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/90a0fd1603bf289f0f24ce9ab2795a7e/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/8de1223f3f4cd3f550b6fd76390bbde6/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/1b4c8393ecae6b2f353a64e0d9c2b329/navigation-common-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] /Users/ratface/.gradle/caches/transforms-2/files-2.1/c9a2a4866d7f5f3bbccfbf9b7d13a0e7/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/00dc12db37eced68c952e5ff0d2d62e3/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/b8adb00197e716964fd461a51894da13/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/84bdc0699eaaa36dced8e6379a20f9f1/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/4e59a84ab0381cbfface29caa8709263/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/d4740832df58ea0b233a9ad0bef8f1a6/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/c7ec0f3e3f63808b7939f3cfce1ab43d/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/a3a6514fe4177f3a78a4a1f43f36c446/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/c78aac1b6a8847ed042c6bad4187cb86/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/9f0106ac624a948f0a7e131ad910007e/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/70e238a5354e54db1a8352cc13184660/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/ratface/.gradle/caches/transforms-2/files-2.1/e2209712fd4cf609f85a8d94530e586e/sqlite-framework-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/ratface/.gradle/caches/transforms-2/files-2.1/2702c2bae558acfb42a9ce1069899a32/sqlite-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/490af03b3654fe84eb843a2a0bc03dce/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/42731a8a91d1536a2e9fb405416a5963/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/cac92d7425c7497bde880681b9c89db3/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/815abae25a7c4ac3405363aafd08c6b8/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/a8ced599a91d361cc332801e5e4878b3/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/15c2aa08ac60813fa3f8a82542729801/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.28] /Users/ratface/.gradle/caches/transforms-2/files-2.1/db5211dd9bdd8c58df8b6320c1fc9f4f/jetified-dagger-lint-aar-2.28/AndroidManifest.xml:16:1-18:12
+INJECTED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/ratface/.gradle/caches/transforms-2/files-2.1/583aca2d308683ad708806eff3140c53/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/ratface/.gradle/caches/transforms-2/files-2.1/583aca2d308683ad708806eff3140c53/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/9cc7cb2f97f1705dd07ec3706c6a27c3/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/9cc7cb2f97f1705dd07ec3706c6a27c3/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/a89bef81c65def4cfa70e234027fda36/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/a89bef81c65def4cfa70e234027fda36/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/ratface/.gradle/caches/transforms-2/files-2.1/2f64ec15e0a532f643d058dc9b2f6c24/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/ratface/.gradle/caches/transforms-2/files-2.1/2f64ec15e0a532f643d058dc9b2f6c24/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.core:core:1.3.2] /Users/ratface/.gradle/caches/transforms-2/files-2.1/c9a2a4866d7f5f3bbccfbf9b7d13a0e7/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/ratface/.gradle/caches/transforms-2/files-2.1/c9a2a4866d7f5f3bbccfbf9b7d13a0e7/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/b8adb00197e716964fd461a51894da13/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/b8adb00197e716964fd461a51894da13/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/490af03b3654fe84eb843a2a0bc03dce/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/490af03b3654fe84eb843a2a0bc03dce/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/ratface/.gradle/caches/transforms-2/files-2.1/c9a2a4866d7f5f3bbccfbf9b7d13a0e7/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:12:9-56
+	android:name
+		ADDED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:6:9-42
+activity#com.gameborn.keeperlogin.ui.LoginActivity
+ADDED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:13:19-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.0.2] /Users/ratface/.gradle/caches/transforms-2/files-2.1/ed27d062b86e8e3fa1c233bacb9e4212/jetified-viewbinding-4.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.0.2] /Users/ratface/.gradle/caches/transforms-2/files-2.1/ed27d062b86e8e3fa1c233bacb9e4212/jetified-viewbinding-4.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/8ad5c406f6c57ea9be26dc299e1d8018/navigation-fragment-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/8ad5c406f6c57ea9be26dc299e1d8018/navigation-fragment-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /Users/ratface/.gradle/caches/transforms-2/files-2.1/2d0798fab1576f95f5c6fbd4f2229278/jetified-fragment-ktx-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /Users/ratface/.gradle/caches/transforms-2/files-2.1/2d0798fab1576f95f5c6fbd4f2229278/jetified-fragment-ktx-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/58aa645a03c38372d3e778f66f1e0b97/navigation-ui-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/58aa645a03c38372d3e778f66f1e0b97/navigation-ui-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/7cedaf1db3ab97bd7f15c72bb416b112/navigation-runtime-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/7cedaf1db3ab97bd7f15c72bb416b112/navigation-runtime-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/8a9c47758f61f47aef4e8d839de619c7/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/8a9c47758f61f47aef4e8d839de619c7/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/3e9b323b88e1a5b4fa1dd9d0d6792f8e/navigation-common-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/3e9b323b88e1a5b4fa1dd9d0d6792f8e/navigation-common-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/ratface/.gradle/caches/transforms-2/files-2.1/0beffe0d30ade6ee69b015645c6a6afd/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/ratface/.gradle/caches/transforms-2/files-2.1/0beffe0d30ade6ee69b015645c6a6afd/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/218bc1b1f51c4a631a8789bce8903f8e/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/218bc1b1f51c4a631a8789bce8903f8e/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/04769ba0258c98b76a309cc7076b5dad/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/04769ba0258c98b76a309cc7076b5dad/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/3f58ac22f092b020fb15c9132df4c9c8/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/3f58ac22f092b020fb15c9132df4c9c8/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/ratface/.gradle/caches/transforms-2/files-2.1/583aca2d308683ad708806eff3140c53/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/ratface/.gradle/caches/transforms-2/files-2.1/583aca2d308683ad708806eff3140c53/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/3e9148bf64478e24c376a890878806c9/navigation-ui-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/3e9148bf64478e24c376a890878806c9/navigation-ui-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/9cc7cb2f97f1705dd07ec3706c6a27c3/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/9cc7cb2f97f1705dd07ec3706c6a27c3/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/c7cd071fe9575da37643011df15daf26/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/c7cd071fe9575da37643011df15daf26/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/fb1a2e8258309ad04395d828d65a6357/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/fb1a2e8258309ad04395d828d65a6357/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/a89bef81c65def4cfa70e234027fda36/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/a89bef81c65def4cfa70e234027fda36/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha02] /Users/ratface/.gradle/caches/transforms-2/files-2.1/9a456879aa141de8f970bab9d90b2a3f/jetified-hilt-lifecycle-viewmodel-1.0.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha02] /Users/ratface/.gradle/caches/transforms-2/files-2.1/9a456879aa141de8f970bab9d90b2a3f/jetified-hilt-lifecycle-viewmodel-1.0.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-common:1.0.0-alpha02] /Users/ratface/.gradle/caches/transforms-2/files-2.1/bf207ef97d895ce8f12d9ec8055372d6/jetified-hilt-common-1.0.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-common:1.0.0-alpha02] /Users/ratface/.gradle/caches/transforms-2/files-2.1/bf207ef97d895ce8f12d9ec8055372d6/jetified-hilt-common-1.0.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.28-alpha] /Users/ratface/.gradle/caches/transforms-2/files-2.1/c22fa83854cd83edc69b9da02854112c/jetified-hilt-android-2.28-alpha/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.28-alpha] /Users/ratface/.gradle/caches/transforms-2/files-2.1/c22fa83854cd83edc69b9da02854112c/jetified-hilt-android-2.28-alpha/AndroidManifest.xml:18:3-42
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/ratface/.gradle/caches/transforms-2/files-2.1/2f64ec15e0a532f643d058dc9b2f6c24/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/ratface/.gradle/caches/transforms-2/files-2.1/2f64ec15e0a532f643d058dc9b2f6c24/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/57fdcb84de038ef25bb7412a667b3885/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/57fdcb84de038ef25bb7412a667b3885/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/ead2fbb7a74a37a78f497f4e8f0c2e4b/navigation-fragment-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/ead2fbb7a74a37a78f497f4e8f0c2e4b/navigation-fragment-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] /Users/ratface/.gradle/caches/transforms-2/files-2.1/86c96f9b42533278e4f9b14c82584f4f/fragment-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] /Users/ratface/.gradle/caches/transforms-2/files-2.1/86c96f9b42533278e4f9b14c82584f4f/fragment-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/b59e7f25701bf99741f59edd524b58a3/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/b59e7f25701bf99741f59edd524b58a3/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/7b764c1440b8689dc39bf072fb24ded7/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/7b764c1440b8689dc39bf072fb24ded7/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/797130885ef6cbb410eda87a2b3b7047/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/797130885ef6cbb410eda87a2b3b7047/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/cdd8264b419ca912391a0032615759a0/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/cdd8264b419ca912391a0032615759a0/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/0027e910cfa6047353fe642d5a3a2057/navigation-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/0027e910cfa6047353fe642d5a3a2057/navigation-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/0b07b2c11ff73f1ca46e66ebf05774d0/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/0b07b2c11ff73f1ca46e66ebf05774d0/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/3053c65649ed16dcc1801ad81e6bedfd/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/3053c65649ed16dcc1801ad81e6bedfd/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/da5da4455f7723820d7137ee0cca0810/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/da5da4455f7723820d7137ee0cca0810/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/7e8f3be1da714a2fc3dac0867c9a6b20/drawerlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/7e8f3be1da714a2fc3dac0867c9a6b20/drawerlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/f2e24f72107c8998e5c369b6a4987454/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/f2e24f72107c8998e5c369b6a4987454/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/dd11533340a5da8f4e72622d8000189e/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/dd11533340a5da8f4e72622d8000189e/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/448860136ffe8ebc99884ef1fc1d6616/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/448860136ffe8ebc99884ef1fc1d6616/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/8204b38f17119f31511d54bbdd19ad5d/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/8204b38f17119f31511d54bbdd19ad5d/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/4473c473711626dbc64ca37200aa45a2/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/4473c473711626dbc64ca37200aa45a2/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/8e3a366481b0420829943701de6451b0/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/8e3a366481b0420829943701de6451b0/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/90a0fd1603bf289f0f24ce9ab2795a7e/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/90a0fd1603bf289f0f24ce9ab2795a7e/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/8de1223f3f4cd3f550b6fd76390bbde6/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/8de1223f3f4cd3f550b6fd76390bbde6/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/1b4c8393ecae6b2f353a64e0d9c2b329/navigation-common-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/1b4c8393ecae6b2f353a64e0d9c2b329/navigation-common-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/ratface/.gradle/caches/transforms-2/files-2.1/c9a2a4866d7f5f3bbccfbf9b7d13a0e7/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/ratface/.gradle/caches/transforms-2/files-2.1/c9a2a4866d7f5f3bbccfbf9b7d13a0e7/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/00dc12db37eced68c952e5ff0d2d62e3/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/00dc12db37eced68c952e5ff0d2d62e3/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/b8adb00197e716964fd461a51894da13/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/b8adb00197e716964fd461a51894da13/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/84bdc0699eaaa36dced8e6379a20f9f1/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/84bdc0699eaaa36dced8e6379a20f9f1/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/4e59a84ab0381cbfface29caa8709263/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/4e59a84ab0381cbfface29caa8709263/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/d4740832df58ea0b233a9ad0bef8f1a6/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/d4740832df58ea0b233a9ad0bef8f1a6/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/c7ec0f3e3f63808b7939f3cfce1ab43d/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/c7ec0f3e3f63808b7939f3cfce1ab43d/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/a3a6514fe4177f3a78a4a1f43f36c446/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/a3a6514fe4177f3a78a4a1f43f36c446/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/c78aac1b6a8847ed042c6bad4187cb86/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/c78aac1b6a8847ed042c6bad4187cb86/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/9f0106ac624a948f0a7e131ad910007e/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/9f0106ac624a948f0a7e131ad910007e/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/70e238a5354e54db1a8352cc13184660/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/70e238a5354e54db1a8352cc13184660/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/ratface/.gradle/caches/transforms-2/files-2.1/e2209712fd4cf609f85a8d94530e586e/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/ratface/.gradle/caches/transforms-2/files-2.1/e2209712fd4cf609f85a8d94530e586e/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/ratface/.gradle/caches/transforms-2/files-2.1/2702c2bae558acfb42a9ce1069899a32/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/ratface/.gradle/caches/transforms-2/files-2.1/2702c2bae558acfb42a9ce1069899a32/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/490af03b3654fe84eb843a2a0bc03dce/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/490af03b3654fe84eb843a2a0bc03dce/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/42731a8a91d1536a2e9fb405416a5963/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/42731a8a91d1536a2e9fb405416a5963/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/cac92d7425c7497bde880681b9c89db3/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/cac92d7425c7497bde880681b9c89db3/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/815abae25a7c4ac3405363aafd08c6b8/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/815abae25a7c4ac3405363aafd08c6b8/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/a8ced599a91d361cc332801e5e4878b3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/a8ced599a91d361cc332801e5e4878b3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/15c2aa08ac60813fa3f8a82542729801/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/15c2aa08ac60813fa3f8a82542729801/cardview-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] /Users/ratface/.gradle/caches/transforms-2/files-2.1/2f64ec15e0a532f643d058dc9b2f6c24/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/ratface/.gradle/caches/transforms-2/files-2.1/2f64ec15e0a532f643d058dc9b2f6c24/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/ratface/.gradle/caches/transforms-2/files-2.1/2f64ec15e0a532f643d058dc9b2f6c24/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/ratface/.gradle/caches/transforms-2/files-2.1/2f64ec15e0a532f643d058dc9b2f6c24/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/b8adb00197e716964fd461a51894da13/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/b8adb00197e716964fd461a51894da13/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/b8adb00197e716964fd461a51894da13/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/b8adb00197e716964fd461a51894da13/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/ratface/.gradle/caches/transforms-2/files-2.1/b8adb00197e716964fd461a51894da13/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:2:1-22:12 reason: dagger.lint has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:2:1-22:12 reason: dagger.lint has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/AndroidManifest.xml:2:1-22:12 reason: dagger.lint requested WRITE_EXTERNAL_STORAGE

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/login_fragment.xml",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/layout/login_fragment.xml"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/logged_in_fragment.xml",
+        "source": "/Users/ratface/Documents/Workspace.Android/ATEST/backup/keeper_login/app/src/main/res/layout/logged_in_fragment.xml"
+    }
+]

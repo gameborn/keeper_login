@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">KeeperLogin</string>
+    <string name="login_text_title">Email</string>
+    <string name="password_text_title">Master Password</string>
+    <string name="login_view_title">Login</string>
+    <string name="default_content_desc">keeper security property</string>
+    <string name="login_view_button_label">LOGIN</string>
+    <string name="keeper_security_legal_label">© 2020 Keeper Security Inc</string>
+    <string name="enterprise_login_button_label">Enterprise Login\n(coming soon)</string>
+
+    <string name="create_account_label">Don\'t have an account? <a href="https://keepersecurity.com/vault/">CREATE</a></string>
+    <string name="need_help_label"><a href="https://www.keepersecurity.com/contact.html">Need Help?</a></string>
+
+    <string name="login_validation_error">Enter full email. Example: hi@example.com</string>
+    <string name="password_validation_error">Password should contain at least %1$d characters</string>
+    <string name="empty_value" />
+    <string name="invalid_login_message" >Invalid Login</string>
+    <string name="invalid_password_message" >Invalid Password</string>
+
+    <string name="login_failed_error_message" >Something went wrong</string>
+    <string name="welcome_message" >Welcome to KEEPER SECURITY</string>
+
+</resources>
